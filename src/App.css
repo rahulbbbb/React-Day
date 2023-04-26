@@ -7,6 +7,29 @@
   pointer-events: none;
 }
 
+
+button{
+  margin-left: 10px;
+  width:80px;
+  height:30px;
+}
+
+.inputt{
+  width:350px;
+  height:30px;
+}
+
+h2{
+  font-size: 50px;
+}
+
+label{
+  font-size: 25px;
+  }
+
+  
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
